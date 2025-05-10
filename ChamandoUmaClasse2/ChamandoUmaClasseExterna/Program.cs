@@ -23,10 +23,10 @@ namespace ChamandoUmaClasseExterna
 
             if (p1.Idade > p2.Idade)
             {
-                Console.WriteLine("A primeira pessoa é mais velha: ");
+                Console.WriteLine("A primeira pessoa é mais velha: " + p1.Nome);
             } else
             {
-                Console.WriteLine("A segunda pessoa é mais velha:");
+                Console.WriteLine("A segunda pessoa é mais velha:" + p2.Nome);
             }
         }
     }

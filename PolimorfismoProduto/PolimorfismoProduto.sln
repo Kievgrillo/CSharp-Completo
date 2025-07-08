@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolimorfismoProduto", "PolimorfismoProduto\PolimorfismoProduto.csproj", "{3B43AC9D-3466-4330-9CA4-1951630F73FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B43AC9D-3466-4330-9CA4-1951630F73FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B43AC9D-3466-4330-9CA4-1951630F73FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B43AC9D-3466-4330-9CA4-1951630F73FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B43AC9D-3466-4330-9CA4-1951630F73FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C9B39E8-444A-4BDD-A433-14A1799F71FF}
+	EndGlobalSection
+EndGlobal

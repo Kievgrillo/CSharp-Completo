@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AluguelSemInterface", "AluguelSemInterface\AluguelSemInterface.csproj", "{B8EF60EE-AFD2-408C-BCB6-BF558A7A8BB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8EF60EE-AFD2-408C-BCB6-BF558A7A8BB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8EF60EE-AFD2-408C-BCB6-BF558A7A8BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8EF60EE-AFD2-408C-BCB6-BF558A7A8BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8EF60EE-AFD2-408C-BCB6-BF558A7A8BB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D9C76D3-F6BF-45EA-A190-B63C64EE9A23}
+	EndGlobalSection
+EndGlobal
